@@ -107,7 +107,6 @@ Console.WriteLine($"- $ {dolares:F2} dólares");
 Console.WriteLine($"- $ {euros:F2} euros");
 Console.WriteLine($"- $ {libras:F2} libras esterlinas"); */
 
-// Hacer comentarios en el código, describiendo la funcionalidad de cada sección (En cada ejercicio)
 
 
 // Estructura de desición if simple
