@@ -1,0 +1,44 @@
+C:\Users\USUARIO\Desktop\exampleArrayTwo\bin\Debug\net7.0\exampleArrayTwo.exe
+C:\Users\USUARIO\Desktop\exampleArrayTwo\bin\Debug\net7.0\exampleArrayTwo.deps.json
+C:\Users\USUARIO\Desktop\exampleArrayTwo\bin\Debug\net7.0\exampleArrayTwo.runtimeconfig.json
+C:\Users\USUARIO\Desktop\exampleArrayTwo\bin\Debug\net7.0\exampleArrayTwo.dll
+C:\Users\USUARIO\Desktop\exampleArrayTwo\bin\Debug\net7.0\exampleArrayTwo.pdb
+C:\Users\USUARIO\Desktop\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.dll
+C:\Users\USUARIO\Desktop\exampleArrayTwo\obj\Debug\net7.0\refint\exampleArrayTwo.dll
+C:\Users\USUARIO\Desktop\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.pdb
+C:\Users\USUARIO\Desktop\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\exampleArrayTwo\obj\Debug\net7.0\ref\exampleArrayTwo.dll
+G:\c_Sharp\exampleArrayTwo\bin\Debug\net7.0\exampleArrayTwo.exe
+G:\c_Sharp\exampleArrayTwo\bin\Debug\net7.0\exampleArrayTwo.deps.json
+G:\c_Sharp\exampleArrayTwo\bin\Debug\net7.0\exampleArrayTwo.runtimeconfig.json
+G:\c_Sharp\exampleArrayTwo\bin\Debug\net7.0\exampleArrayTwo.dll
+G:\c_Sharp\exampleArrayTwo\bin\Debug\net7.0\exampleArrayTwo.pdb
+G:\c_Sharp\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.GeneratedMSBuildEditorConfig.editorconfig
+G:\c_Sharp\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.AssemblyInfoInputs.cache
+G:\c_Sharp\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.AssemblyInfo.cs
+G:\c_Sharp\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.csproj.CoreCompileInputs.cache
+G:\c_Sharp\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.dll
+G:\c_Sharp\exampleArrayTwo\obj\Debug\net7.0\refint\exampleArrayTwo.dll
+G:\c_Sharp\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.pdb
+G:\c_Sharp\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.genruntimeconfig.cache
+G:\c_Sharp\exampleArrayTwo\obj\Debug\net7.0\ref\exampleArrayTwo.dll
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\03_exampleArrayTwo\exampleArrayTwo\bin\Debug\net7.0\exampleArrayTwo.exe
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\03_exampleArrayTwo\exampleArrayTwo\bin\Debug\net7.0\exampleArrayTwo.deps.json
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\03_exampleArrayTwo\exampleArrayTwo\bin\Debug\net7.0\exampleArrayTwo.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\03_exampleArrayTwo\exampleArrayTwo\bin\Debug\net7.0\exampleArrayTwo.dll
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\03_exampleArrayTwo\exampleArrayTwo\bin\Debug\net7.0\exampleArrayTwo.pdb
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\03_exampleArrayTwo\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\03_exampleArrayTwo\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\03_exampleArrayTwo\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\03_exampleArrayTwo\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\03_exampleArrayTwo\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.sourcelink.json
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\03_exampleArrayTwo\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.dll
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\03_exampleArrayTwo\exampleArrayTwo\obj\Debug\net7.0\refint\exampleArrayTwo.dll
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\03_exampleArrayTwo\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.pdb
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\03_exampleArrayTwo\exampleArrayTwo\obj\Debug\net7.0\exampleArrayTwo.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\03_exampleArrayTwo\exampleArrayTwo\obj\Debug\net7.0\ref\exampleArrayTwo.dll
