@@ -1,0 +1,29 @@
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.exe
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.deps.json
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.runtimeconfig.json
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.dll
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.pdb
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.AssemblyInfoInputs.cache
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.AssemblyInfo.cs
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.dll
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\refint\csharp_ejemplos.dll
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.pdb
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.genruntimeconfig.cache
+C:\Users\ejecutivo\Desktop\csharp_ejemplos\obj\Debug\net8.0\ref\csharp_ejemplos.dll
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.sourcelink.json
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.dll
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\csharp_ejemplos\obj\Debug\net8.0\refint\csharp_ejemplos.dll
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.pdb
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.exe
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.deps.json
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.dll
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\csharp_ejemplos\bin\Debug\net8.0\csharp_ejemplos.pdb
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\csharp_ejemplos\obj\Debug\net8.0\csharp_ejemplos.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desktop\JORMAN\JORMAN\4 Trimestre\C#\csharp_ejemplos\obj\Debug\net8.0\ref\csharp_ejemplos.dll

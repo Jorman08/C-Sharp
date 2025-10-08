@@ -1,6 +1,7 @@
 {
   "version": 3,
   "targets": {
+<<<<<<< HEAD
     "net8.0": {
       "Azure.Core/1.35.0": {
         "type": "package",
@@ -4103,6 +4104,13 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.7",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.7"
     ]
+=======
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+>>>>>>> 12ddbe956d9523a1612cf3f356cf5dd61dbcfa66
   },
   "packageFolders": {
     "C:\\Users\\Usuario\\.nuget\\packages\\": {},
@@ -4111,11 +4119,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\ConcesionarioWeb\\ConcesionarioWeb.csproj",
       "projectName": "ConcesionarioWeb",
       "projectPath": "C:\\Users\\Usuario\\source\\repos\\ConcesionarioWeb\\ConcesionarioWeb.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Usuario\\source\\repos\\ConcesionarioWeb\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Desktop\\JORMAN\\JORMAN\\4 Trimestre\\C#\\C#.csproj",
+      "projectName": "C#",
+      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\JORMAN\\JORMAN\\4 Trimestre\\C#\\C#.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\JORMAN\\JORMAN\\4 Trimestre\\C#\\obj\\",
+>>>>>>> 12ddbe956d9523a1612cf3f356cf5dd61dbcfa66
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4153,6 +4169,7 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+<<<<<<< HEAD
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
@@ -4165,6 +4182,8 @@
             "version": "[8.0.7, )"
           }
         },
+=======
+>>>>>>> 12ddbe956d9523a1612cf3f356cf5dd61dbcfa66
         "imports": [
           "net461",
           "net462",
@@ -4177,9 +4196,12 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+<<<<<<< HEAD
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
           },
+=======
+>>>>>>> 12ddbe956d9523a1612cf3f356cf5dd61dbcfa66
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
